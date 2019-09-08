@@ -22,8 +22,9 @@ This step is typically approached with machine learning or inferential statistic
 Step 5: Communicate your results
 You often need to justify and convey meaning in the insights you’ve found. Or, if your end goal is to build a system, you usually need to share what you’ve built, explain how you reached design decisions, and report how well it performs. There are many ways to communicate your results: reports, slide decks, blog posts, emails, presentations, or even conversations. Data visualization will always be very valuable.
 
+
 #### Dataset: 
 Breast Cancer Wisconsin (Diagnostic) Data Set
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/version/2 
 
-#### In this repository, I will be working on finding the factors influencing in breast cancer being malignant 
+#### In this repository, I will be working on finding the factors influencing malignancy in breast cancer. 
