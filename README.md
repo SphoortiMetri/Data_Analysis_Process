@@ -22,4 +22,4 @@ This step is typically approached with machine learning or inferential statistic
 Step 5: Communicate your results
 You often need to justify and convey meaning in the insights you’ve found. Or, if your end goal is to build a system, you usually need to share what you’ve built, explain how you reached design decisions, and report how well it performs. There are many ways to communicate your results: reports, slide decks, blog posts, emails, presentations, or even conversations. Data visualization will always be very valuable.
 
-
+#### In this repository, I have included examples for each of these steps 
